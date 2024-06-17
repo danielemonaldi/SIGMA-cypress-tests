@@ -1,0 +1,58 @@
+[
+  {
+    "key": "defaultlanguage",
+    "value": "pt-PT"
+  },
+  {
+    "key": "page.timeout.default",
+    "value": "60000"
+  },
+  {
+    "key": "page.timeout.timeoutpage",
+    "value": "20000"
+  },
+  {
+    "key": "request.type",
+    "value": "OffLine"
+  },
+  {
+    "key": "request_receipt_pos",
+    "value": "10000"
+  },
+  {
+    "key": "xml.file.path",
+    "value": "D:/sigma/ATM/xml/COIMBRA/"
+  },
+  {
+    "key": "default.fiscal.datatype",
+    "value": "Receipt"
+  },
+  {
+    "key": "user.interface.bundle.hash",
+    "value": "8a8c607e734841485b4caacf1d2b38e22e894fae3899a9169200c3949054da21"
+  },
+  {
+    "key": "user.interface.bundle.repository",
+    "value": "REPOSITORY"
+  },
+  {
+    "key": "user.interface.bundle.filename",
+    "value": "6bcc223a-9e92-487a-9f24-b383ceecf1a6_b9ed6f4152565a847425f6d193a73586"
+  },
+  {
+    "key": "page.timeout.readcard",
+    "value": "5000"
+  },
+  {
+    "key": "page.timeout.readcardcountdown",
+    "value": "5000"
+  },
+  {
+    "key": "page.timeout.end",
+    "value": "10000"
+  },
+  {
+    "key": "supportedlanguages",
+    "value": "pt-PT,it-IT,en-US,fr-FR,de-DE,es-ES"
+  }
+]
